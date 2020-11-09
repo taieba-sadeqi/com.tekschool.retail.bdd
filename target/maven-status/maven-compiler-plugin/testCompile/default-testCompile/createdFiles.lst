@@ -1,3 +1,9 @@
-stepDefinitions\Initializer.class
+stepDefinitions\CurrencyStepDefination.class
+stepDefinitions\SqlQueryStepDefinition.class
 stepDefinitions\LoginTestStepDefinition.class
 stepDefinitions\RegisterFormStepDefinition.class
+stepDefinitions\AddShoppingList.class
+stepDefinitions\AddItemToWishlist.class
+stepDefinitions\Initializer.class
+stepDefinitions\RemoveFromCard.class
+runner\TestRunner.class

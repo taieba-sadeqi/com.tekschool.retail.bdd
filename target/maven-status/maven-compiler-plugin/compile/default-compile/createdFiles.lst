@@ -1,6 +1,10 @@
-pageObjects\RegisterFormPageObj.class
 utilities\WebDriverUtility.class
-core\Base.class
-pageObjects\LoginPageObj.class
 pageObjects\MyAccountPageObj.class
 utilities\DataBaseUtility.class
+pageObjects\AdditemToWishList.class
+pageObjects\AddingShoppingCard.class
+pageObjects\RegisterFormPageObj.class
+core\Base.class
+pageObjects\LoginPageObj.class
+pageObjects\CurrencyPageObj.class
+pageObjects\RemoveFromShoppingCard.class
