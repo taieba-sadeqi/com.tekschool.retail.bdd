@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5911072100,
+  "duration": 46184564300,
   "status": "passed"
 });
 formatter.scenario({
@@ -53,39 +53,39 @@ formatter.match({
   "location": "CurrencyStepDefination.user_should_be_able_see_price_of_my_products_in_different_currency()"
 });
 formatter.result({
-  "duration": 2435316500,
+  "duration": 10513249100,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyStepDefination.user_should_see_the_default_currency_which_is_dollar_sign()"
 });
 formatter.result({
-  "duration": 38029500,
+  "duration": 55231900,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyStepDefination.user_click_on_drop_down_on_top_left_side_of_webpage()"
 });
 formatter.result({
-  "duration": 110900,
+  "duration": 112500,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyStepDefination.user_select_any_other_currency()"
 });
 formatter.result({
-  "duration": 111389000,
+  "duration": 279872400,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyStepDefination.user_should_be_able_to_see_items_with_diffrent_currency()"
 });
 formatter.result({
-  "duration": 425044400,
+  "duration": 1376981800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 991933800,
+  "duration": 3847836900,
   "status": "passed"
 });
 });
